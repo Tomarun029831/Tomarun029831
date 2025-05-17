@@ -6,18 +6,19 @@
 ## Skills
 ### General
 
-### Language Acompolished Tier
+## Language Accomplished Tier
+### 💛 RESPECT / LOVE
+![JavaScript](https://img.shields.io/badge/JavaScript-RESPECT-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-LOVE-blue?style=for-the-badge&logo=typescript)
+![LiSP](https://img.shields.io/badge/LiSP-RESPECT-yellow?style=for-the-badge&logo=gnu)
+
 ### 🟢 GOOD
-![C#](https://img.shields.io/badge/C%23-GOOD-green?style=for-the-badge&logo=c-sharp)
+![C#](https://img.shields.io/badge/C%23/UNITY-GOOD-green?style=for-the-badge&logo=c-sharp)
 
 ### 🔵 NORMAL
 ![C](https://img.shields.io/badge/C-NORMAL-blue?style=for-the-badge&logo=c)
 ![Python](https://img.shields.io/badge/Python-NORMAL-blue?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-NORMAL-blue?style=for-the-badge&logo=java)
-
-### 💛 RESPECT / LOVE
-![JavaScript](https://img.shields.io/badge/JavaScript-RESPECT-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-LOVE-blue?style=for-the-badge&logo=typescript)
 
 ### 🔴 BAD
 ![C++](https://img.shields.io/badge/C%2B%2B-BAD-red?style=for-the-badge&logo=c%2B%2B)
@@ -26,22 +27,26 @@
 ![Ruby](https://img.shields.io/badge/Ruby-ONLYSYNTAX-lightgrey?style=for-the-badge&logo=ruby)
 ![Perl](https://img.shields.io/badge/Perl-ONLYSYNTAX-lightgrey?style=for-the-badge&logo=perl)
 
-## Framework Acompolished Tier
+---
+
+## Framework Accomplished Tier
 ### 🟢 GOOD
 ![Unity](https://img.shields.io/badge/Unity-GOOD-green?style=for-the-badge&logo=unity)
-![Google Apps Script](https://img.shields.io/badge/GAS-GOOD-green?style=for-the-badge&logo=google)
+![Google Apps Script](https://img.shields.io/badge/GAS(Google%20Apps%20Script)-GOOD-4285F4?style=for-the-badge&logo=google)
+
+---
+
+## Editor Accomplished Tier
+### 💛 RESPECT / LOVE
+![Vim](https://img.shields.io/badge/Vim-LOVE-yellow?style=for-the-badge&logo=vim)
+![Neovim](https://img.shields.io/badge/Neovim-LOVE-yellow?style=for-the-badge&logo=neovim)
 
 
-## Editor Acompolished Tier
 ### 🟢 GOOD
 ![VSCode](https://img.shields.io/badge/VSCode-GOOD-green?style=for-the-badge&logo=visualstudiocode)
 
 ### 🔵 NORMAL
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-NORMAL-blue?style=for-the-badge&logo=visualstudio)
-
-### 💛 RESPECT / LOVE
-![Vim](https://img.shields.io/badge/vim-LOVE-yellow?for-the-badge&logo=vim)
-![Neovim](https://img.shields.io/badge/neovim-LOVE-yellow?for-the-badge&logo=neovim)
 
 ## Histories
 ### Enrolled in Computer Science Course, NITIC - from Apr. 2022 to ...
