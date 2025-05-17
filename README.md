@@ -22,6 +22,10 @@
 
 ### 🔴 BAD
 ![C++](https://img.shields.io/badge/C%2B%2B-BAD-red?style=for-the-badge&logo=c%2B%2B)
+![HTML](https://img.shields.io/badge/HTML-BAD-red?style=for-the-badge&logo=HTML)
+![CSS](https://img.shields.io/badge/CSS-BAD-red?style=for-the-badge&logo=CSS)
+
+
 
 ### ⚪️ ONLY SYNTAX
 ![Ruby](https://img.shields.io/badge/Ruby-ONLYSYNTAX-lightgrey?style=for-the-badge&logo=ruby)
