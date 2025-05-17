@@ -1,111 +1,121 @@
-## Hi there 👋
+## 🌟 === Hi there 👋 ===
 
 ![Age: 18](https://img.shields.io/badge/Age-18-orange?style=for-the-badge)
 ![have written code for: 4yrs](https://img.shields.io/badge/Have_written_code_for-4_yrs-critical?style=for-the-badge)
 
-## Skills
-### General
+---
 
-## Language Accomplished Tier
-### 💛 RESPECT / LOVE
-![JavaScript](https://img.shields.io/badge/JavaScript-RESPECT-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-LOVE-blue?style=for-the-badge&logo=typescript)
+## 🛠️ === Skills ===
+
+---
+
+## 🧠 === Language Accomplished Tier ===
+
+### 💛 RESPECT / LOVE  
+![JavaScript](https://img.shields.io/badge/JavaScript-RESPECT-yellow?style=for-the-badge&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/TypeScript-LOVE-blue?style=for-the-badge&logo=typescript)  
 ![LiSP](https://img.shields.io/badge/LiSP-RESPECT-yellow?style=for-the-badge&logo=gnu)
 
-### 🟢 GOOD
+### 🟢 GOOD  
 ![C#](https://img.shields.io/badge/C%23/UNITY-GOOD-green?style=for-the-badge&logo=c-sharp)
 
-### 🔵 NORMAL
-![C](https://img.shields.io/badge/C-NORMAL-blue?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-LEARNING-blue?style=for-the-badge&logo=python)
+### 🔵 NORMAL / LEARNING  
+![C](https://img.shields.io/badge/C-NORMAL-blue?style=for-the-badge&logo=c)  
+![Python](https://img.shields.io/badge/Python-LEARNING-blue?style=for-the-badge&logo=python)  
 ![Java](https://img.shields.io/badge/Java-LEARNING-blue?style=for-the-badge&logo=java)
 
-### 🔴 BAD
-![C++](https://img.shields.io/badge/C%2B%2B-BAD-red?style=for-the-badge&logo=c%2B%2B)
-![HTML](https://img.shields.io/badge/HTML-BAD-red?style=for-the-badge&logo=html5)
+### 🔴 BAD  
+![C++](https://img.shields.io/badge/C%2B%2B-BAD-red?style=for-the-badge&logo=c%2B%2B)  
+![HTML](https://img.shields.io/badge/HTML-BAD-red?style=for-the-badge&logo=html5)  
 ![CSS](https://img.shields.io/badge/CSS-BAD-red?style=for-the-badge&logo=css3)
 
-### ⚪️ ONLY SYNTAX
-![Ruby](https://img.shields.io/badge/Ruby-ONLYSYNTAX-lightgrey?style=for-the-badge&logo=ruby)
+### ⚪️ ONLY SYNTAX  
+![Ruby](https://img.shields.io/badge/Ruby-ONLYSYNTAX-lightgrey?style=for-the-badge&logo=ruby)  
 ![Perl](https://img.shields.io/badge/Perl-ONLYSYNTAX-lightgrey?style=for-the-badge&logo=perl)
 
 ---
 
-## Framework Accomplished Tier
-### 🟢 GOOD
-![Unity](https://img.shields.io/badge/Unity-GOOD-green?style=for-the-badge&logo=unity)
-![Google Apps Script](https://img.shields.io/badge/GAS(Google%20Apps%20Script)-LEARING-green?style=for-the-badge&logo=google)
+## 📦 === Framework Accomplished Tier ===
+
+### 🟢 GOOD  
+![Unity](https://img.shields.io/badge/Unity-GOOD-green?style=for-the-badge&logo=unity)  
+![Google Apps Script](https://img.shields.io/badge/GAS(Google%20Apps%20Script)-LEARNING-green?style=for-the-badge&logo=google)
 
 ---
 
-## Operating System Tier
+## 💻 === Operating System Tier ===
 
-### 🟢 GOOD
-![Windows](https://img.shields.io/badge/Windows-GOOD-blue?style=for-the-badge&logo=windows)
+### 🟢 GOOD  
+![Windows](https://img.shields.io/badge/Windows-GOOD-blue?style=for-the-badge&logo=windows)  
 ![Linux/WSL](https://img.shields.io/badge/Linux%2FWSL-GOOD-green?style=for-the-badge&logo=linux)
 
-### 💡 INTERESTING
+### 💡 INTERESTING  
 ![macOS](https://img.shields.io/badge/macOS-INTERESTING-lightgrey?style=for-the-badge&logo=apple)
 
 ---
 
-## Terminal / Shell Tier
+## 🖥️ === Terminal / Shell Tier ===
 
-### 🟡 NICE
-![PowerShell](https://img.shields.io/badge/PowerShell-NICE-yellow?style=for-the-badge&logo=powershell)
+### 🟡 NICE  
+![PowerShell](https://img.shields.io/badge/PowerShell-NICE-yellow?style=for-the-badge&logo=powershell)  
 ![WezTerm](https://img.shields.io/badge/WezTerm-NICE-yellow?style=for-the-badge)
 
 ---
 
-## Command Tier
-### 🟡 NICE
-![winget](https://img.shields.io/badge/winget-NICE-yellow?style=for-the-badge)
-![npm](https://img.shields.io/badge/npm-NICE-yellow?style=for-the-badge&logo=npm)
-![ls](https://img.shields.io/badge/ls-NICE-yellow?style=for-the-badge)
-![dir](https://img.shields.io/badge/dir-NICE-yellow?style=for-the-badge)
-![touch](https://img.shields.io/badge/touch-NICE-yellow?style=for-the-badge)
-![echo](https://img.shields.io/badge/echo-NICE-yellow?style=for-the-badge)
-![cd](https://img.shields.io/badge/cd-NICE-yellow?style=for-the-badge)
-![git](https://img.shields.io/badge/git-NICE-yellow?style=for-the-badge&logo=git)
+## ⚙️ === Command Tier ===
 
+### 🟡 NICE  
+![winget](https://img.shields.io/badge/winget-NICE-yellow?style=for-the-badge)  
+![npm](https://img.shields.io/badge/npm-NICE-yellow?style=for-the-badge&logo=npm)  
+![ls](https://img.shields.io/badge/ls-NICE-yellow?style=for-the-badge)  
+![dir](https://img.shields.io/badge/dir-NICE-yellow?style=for-the-badge)  
+![touch](https://img.shields.io/badge/touch-NICE-yellow?style=for-the-badge)  
+![echo](https://img.shields.io/badge/echo-NICE-yellow?style=for-the-badge)  
+![cd](https://img.shields.io/badge/cd-NICE-yellow?style=for-the-badge)  
+![git](https://img.shields.io/badge/git-NICE-yellow?style=for-the-badge&logo=git)
 
 ---
 
-## Editor Accomplished Tier
-### 💛 RESPECT / LOVE
-![Vim](https://img.shields.io/badge/Vim-LOVE-yellow?style=for-the-badge&logo=vim)
+## 📝 === Editor Accomplished Tier ===
+
+### 💛 RESPECT / LOVE  
+![Vim](https://img.shields.io/badge/Vim-LOVE-yellow?style=for-the-badge&logo=vim)  
 ![Neovim](https://img.shields.io/badge/Neovim-LOVE-yellow?style=for-the-badge&logo=neovim)
 
-### 🟢 GOOD
+### 🟢 GOOD  
 ![VSCode](https://img.shields.io/badge/VSCode-GOOD-green?style=for-the-badge&logo=visualstudiocode)
 
-### 🔵 NORMAL
+### 🔵 NORMAL  
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-NORMAL-blue?style=for-the-badge&logo=visualstudio)
 
-## Neovim Plugin List
-![LazyVim](https://img.shields.io/badge/LazyVim-CONFIG-lightgreen?style=for-the-badge)
-![LazyGit](https://img.shields.io/badge/LazyGit-TOOL-yellow?style=for-the-badge)
-![Mason.nvim](https://img.shields.io/badge/Mason-INSTALLER-blue?style=for-the-badge)
-![Telescope.nvim](https://img.shields.io/badge/Telescope-FUZZYFINDER-purple?style=for-the-badge)
-![nvim-tree](https://img.shields.io/badge/nvim--tree-FILETREE-orange?style=for-the-badge)
-![lualine.nvim](https://img.shields.io/badge/lualine-STATUSLINE-cyan?style=for-the-badge)
-![nvim-cmp](https://img.shields.io/badge/nvim--cmp-COMPLETION-brightgreen?style=for-the-badge)
+---
+
+## 🔌 === Neovim Plugin List ===
+
+![LazyVim](https://img.shields.io/badge/LazyVim-CONFIG-lightgreen?style=for-the-badge)  
+![LazyGit](https://img.shields.io/badge/LazyGit-TOOL-yellow?style=for-the-badge)  
+![Mason.nvim](https://img.shields.io/badge/Mason-INSTALLER-blue?style=for-the-badge)  
+![Telescope.nvim](https://img.shields.io/badge/Telescope-FUZZYFINDER-purple?style=for-the-badge)  
+![nvim-tree](https://img.shields.io/badge/nvim--tree-FILETREE-orange?style=for-the-badge)  
+![lualine.nvim](https://img.shields.io/badge/lualine-STATUSLINE-cyan?style=for-the-badge)  
+![nvim-cmp](https://img.shields.io/badge/nvim--cmp-COMPLETION-brightgreen?style=for-the-badge)  
 ![Treesitter](https://img.shields.io/badge/Treesitter-SYNTAX-red?style=for-the-badge)
 
-## Histories
-### Enrolled in Computer Science Course, NITIC - from Apr. 2022 to ...
+---
+
+## 📚 === Histories ===
+
+### 🎓 Enrolled in Computer Science Course, NITIC - from Apr. 2022 to ...
 Enrolled in National Institute of Technology, Ibaraki College
 
-### 🇹🇭 1st runnner up Prize in Thailand - Japan Game Programming Hackathon 2024 The Final Round - Dec. 2024
-Got 1st runnner up Prize in international game programming hackathon using Unity.
-[EarthDefense](https://play.unity.com/en/games/f29d60f8-c03a-43ed-9983-1281f630518e/earth-defense)
+### 🇹🇭 1st runner-up Prize in Thailand - Japan Game Programming Hackathon 2024 The Final Round - Dec. 2024  
+Got 1st runner-up Prize in international game programming hackathon using Unity.  
+[EarthDefense](https://play.unity.com/en/games/f29d60f8-c03a-43ed-9983-1281f630518e/earth-defense)  
 Co-developed with [k4nk1](https://github.com/k4nk1) and two others.
 
-<!--
-**Tomarun029831/Tomarun029831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--  
+**YourUsername/YourUsername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
