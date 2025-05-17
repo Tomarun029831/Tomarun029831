@@ -3,6 +3,9 @@
 ![Age: 18](https://img.shields.io/badge/Age-18-orange?style=for-the-badge)
 ![have written code for: 4yrs](https://img.shields.io/badge/Have_written_code_for-4_yrs-critical?style=for-the-badge)
 
+🎮 My hobby is **game development**!  
+Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/games/dae4eae7-04fb-46ca-8ecd-b6d405c7df6b/fluppybird)
+
 ---
 
 ## 🛠️ === Skills ===
