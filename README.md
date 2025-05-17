@@ -25,11 +25,6 @@ Got 1st runnner up Prize in international game programming hackathon using Unity
 [EarthDefense](https://play.unity.com/en/games/f29d60f8-c03a-43ed-9983-1281f630518e/earth-defense)
 Co-developed with [k4nk1](https://github.com/k4nk1) and two others.
 
-### 🎓️ Enrolled in School of Informatics, University of Tsukuba. - Apr. 2025
-Enrolled in Knowledge Information Systems Course, College of Knowledge and Library Sciences, School of Informatics, University of Tsukuba.
-
-
-
 <!--
 **Tomarun029831/Tomarun029831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
