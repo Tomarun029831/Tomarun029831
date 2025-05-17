@@ -26,8 +26,8 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 ## 🧠 === Language Accomplished Tier ===
 
 ### 💛 RESPECT / LOVE  
+![TypeScript](https://img.shields.io/badge/TypeScript-LOVE-blue?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-RESPECT-blue?style=for-the-badge&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/TypeScript-LOVE-blue?style=for-the-badge&logo=typescript)  
 ![LiSP](https://img.shields.io/badge/LiSP-RESPECT-red?style=for-the-badge&logo=gnu)
 
 ### 🟢 GOOD  
@@ -41,11 +41,11 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 
 ### 🔴 BAD  
 ![C++](https://img.shields.io/badge/C%2B%2B-BAD-red?style=for-the-badge&logo=c%2B%2B)  
-![HTML](https://img.shields.io/badge/HTML-BAD-red?style=for-the-badge&logo=html5)  
+![HTML](https://img.shields.io/badge/HTML-BAD-red?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-BAD-red?style=for-the-badge&logo=css3)
 
 ### ⚪️ ONLY SYNTAX  
-![Ruby](https://img.shields.io/badge/Ruby-ONLYSYNTAX-lightgrey?style=for-the-badge&logo=ruby)  
+![Ruby](https://img.shields.io/badge/Ruby-ONLYSYNTAX-lightgrey?style=for-the-badge&logo=ruby)
 ![Perl](https://img.shields.io/badge/Perl-ONLYSYNTAX-lightgrey?style=for-the-badge&logo=perl)
 
 ---
@@ -53,7 +53,7 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 ## 📦 === Framework Accomplished Tier ===
 
 ### 🟢 GOOD  
-![Unity](https://img.shields.io/badge/Unity-GOOD-green?style=for-the-badge&logo=unity)  
+![Unity](https://img.shields.io/badge/Unity-GOOD-green?style=for-the-badge&logo=unity)
 ![Google Apps Script](https://img.shields.io/badge/GAS(Google%20Apps%20Script)-LEARNING-green?style=for-the-badge&logo=google)
 
 ---
@@ -61,7 +61,7 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 ## 💻 === Operating System Tier ===
 
 ### 🟢 GOOD  
-![Windows](https://img.shields.io/badge/Windows-GOOD-blue?style=for-the-badge&logo=windows)  
+![Windows](https://img.shields.io/badge/Windows-GOOD-blue?style=for-the-badge&logo=windows)
 ![Linux/WSL](https://img.shields.io/badge/Linux%2FWSL-GOOD-green?style=for-the-badge&logo=linux)
 
 ### 💡 INTERESTING  
@@ -72,7 +72,7 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 ## 🖥️ === Terminal / Shell Tier ===
 
 ### 🟡 NICE  
-![PowerShell](https://img.shields.io/badge/PowerShell-NICE-yellow?style=for-the-badge&logo=powershell)  
+![PowerShell](https://img.shields.io/badge/PowerShell-NICE-yellow?style=for-the-badge&logo=powershell)
 ![WezTerm](https://img.shields.io/badge/WezTerm-NICE-yellow?style=for-the-badge)
 
 ---
@@ -80,11 +80,11 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 ## ⚙️ === Command Tier ===
 
 ### 🟡 NICE  
-![winget](https://img.shields.io/badge/winget-NICE-yellow?style=for-the-badge)  
+![winget](https://img.shields.io/badge/winget-NICE-yellow?style=for-the-badge)
 ![npm](https://img.shields.io/badge/npm-NICE-yellow?style=for-the-badge&logo=npm)  
-![ls](https://img.shields.io/badge/ls-NICE-yellow?style=for-the-badge)  
+![ls](https://img.shields.io/badge/ls-NICE-yellow?style=for-the-badge)
 ![dir](https://img.shields.io/badge/dir-NICE-yellow?style=for-the-badge)  
-![touch](https://img.shields.io/badge/touch-NICE-yellow?style=for-the-badge)  
+![touch](https://img.shields.io/badge/touch-NICE-yellow?style=for-the-badge)
 ![echo](https://img.shields.io/badge/echo-NICE-yellow?style=for-the-badge)  
 ![cd](https://img.shields.io/badge/cd-NICE-yellow?style=for-the-badge)  
 ![git](https://img.shields.io/badge/git-NICE-yellow?style=for-the-badge&logo=git)
@@ -94,7 +94,7 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 ## 📝 === Editor Accomplished Tier ===
 
 ### 💛 RESPECT / LOVE  
-![Vim](https://img.shields.io/badge/Vim-LOVE-yellow?style=for-the-badge&logo=vim)  
+![Vim](https://img.shields.io/badge/Vim-LOVE-yellow?style=for-the-badge&logo=vim)
 ![Neovim](https://img.shields.io/badge/Neovim-LOVE-yellow?style=for-the-badge&logo=neovim)
 
 ### 🟢 GOOD  
