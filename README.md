@@ -12,7 +12,7 @@
 ![C#](https://img.shields.io/badge/GOOD?style=for-the-badge&logo=cs)
 ![Python](https://img.shields.io/badge/NORMAL?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/NORMAL?style=for-the-badge&logo=java)
-![Ruby](https://img.shields.io/badge/ONLY-SYNTAX?style=for-the-badge&logo=ruby)
+![Ruby](https://img.shields.io/badge/ONLYSYNTAX?style=for-the-badge&logo=ruby)
 ![JavaScript](https://img.shields.io/badge/RESPECT?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/LOVE?style=for-the-badge&logo=typescript)
 
