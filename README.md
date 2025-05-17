@@ -53,8 +53,8 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 ## 📦 === Framework Accomplished Tier ===
 
 ### 🟢 GOOD  
-![Node.js](https://img.shields.io/badge/Node.js-GOOD-green?style=for-the-badge&logo=node.js)  
-![Express](https://img.shields.io/badge/Express-GOOD-green?style=for-the-badge&logo=express)  
+![Node.js](https://img.shields.io/badge/Node.js-GOOD-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-GOOD-green?style=for-the-badge&logo=express)
 ![Unity](https://img.shields.io/badge/Unity-GOOD-green?style=for-the-badge&logo=unity)  
 
 ### 🟢 LEARNING  
