@@ -12,12 +12,21 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 
 ---
 
+## === Books ===
+リーダブルコード
+良いコード／悪いコードで学ぶ設計入門―保守しやすい　成長し続けるコードの書き方
+達人プログラマー
+ネットワークはなぜつながるのか
+テスト駆動開発
+
+---
+
 ## 🧠 === Language Accomplished Tier ===
 
 ### 💛 RESPECT / LOVE  
-![JavaScript](https://img.shields.io/badge/JavaScript-RESPECT-yellow?style=for-the-badge&logo=javascript)  
+![JavaScript](https://img.shields.io/badge/JavaScript-RESPECT-blue?style=for-the-badge&logo=javascript)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-LOVE-blue?style=for-the-badge&logo=typescript)  
-![LiSP](https://img.shields.io/badge/LiSP-RESPECT-yellow?style=for-the-badge&logo=gnu)
+![LiSP](https://img.shields.io/badge/LiSP-RESPECT-bad?style=for-the-badge&logo=gnu)
 
 ### 🟢 GOOD  
 ![C#](https://img.shields.io/badge/C%23/UNITY-GOOD-green?style=for-the-badge&logo=c-sharp)
@@ -25,7 +34,8 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 ### 🔵 NORMAL / LEARNING  
 ![C](https://img.shields.io/badge/C-NORMAL-blue?style=for-the-badge&logo=c)  
 ![Python](https://img.shields.io/badge/Python-LEARNING-blue?style=for-the-badge&logo=python)  
-![Java](https://img.shields.io/badge/Java-LEARNING-blue?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-LEARNING-blue?style=for-the-badge&logo=java)  
+![SQL](https://img.shields.io/badge/SQL-LEARNING-blue?style=for-the-badge&logo=postgresql)
 
 ### 🔴 BAD  
 ![C++](https://img.shields.io/badge/C%2B%2B-BAD-red?style=for-the-badge&logo=c%2B%2B)  
