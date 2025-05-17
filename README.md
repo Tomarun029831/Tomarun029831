@@ -7,20 +7,20 @@
 ### General
 
 ### Languages
-![Python: LOVE](https://img.shields.io/badge/Python-LOVE-blue?style=for-the-badge)
-![Golang: LOVE](https://img.shields.io/badge/Golang-LOVE-blue?style=for-the-badge)
-
-![C: GOOD](https://img.shields.io/badge/C-GOOD-orange?style=for-the-badge)
-![Java: GOOD](https://img.shields.io/badge/Java-GOOD-orange?style=for-the-badge)
-![Ruby: GOOD](https://img.shields.io/badge/Ruby-GOOD-orange?style=for-the-badge)
-![JavaScript: GOOD](https://img.shields.io/badge/JavaScript-GOOD-orange?style=for-the-badge)
-![TypeScript: GOOD](https://img.shields.io/badge/TypeScript-GOOD-orange?style=for-the-badge)
+![C](https://img.shields.io/badge/NORMAL?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/BAD?style=for-the-badge&logo=cpp)
+![C#](https://img.shields.io/badge/GOOD?style=for-the-badge&logo=cs)
+![Python](https://img.shields.io/badge/NORMAL?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/NORMAL?style=for-the-badge&logo=java)
+![Ruby](https://img.shields.io/badge/ONLY-SYNTAX?style=for-the-badge&logo=ruby)
+![JavaScript](https://img.shields.io/badge/RESPECT?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/LOVE?style=for-the-badge&logo=typescript)
 
 ## Histories
 ### Enrolled in Computer Science Course, NITIC - from Apr. 2022 to ...
 Enrolled in National Institute of Technology, Ibaraki College
 
-### 🇹🇭 1st runnner up Prize in Thailand - Japan Game Programming Hackathon 2024 The Final Round
+### 🇹🇭 1st runnner up Prize in Thailand - Japan Game Programming Hackathon 2024 The Final Round - Dec. 2024
 Got 1st runnner up Prize in international game programming hackathon using Unity.
 [EarthDefense](https://play.unity.com/en/games/f29d60f8-c03a-43ed-9983-1281f630518e/earth-defense)
 Co-developed with [k4nk1](https://github.com/k4nk1) and two others.
