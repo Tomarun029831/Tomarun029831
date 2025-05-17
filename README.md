@@ -32,7 +32,7 @@
 ## Framework Accomplished Tier
 ### 🟢 GOOD
 ![Unity](https://img.shields.io/badge/Unity-GOOD-green?style=for-the-badge&logo=unity)
-![Google Apps Script](https://img.shields.io/badge/GAS(Google%20Apps%20Script)-GOOD-4285F4?style=for-the-badge&logo=google)
+![Google Apps Script](https://img.shields.io/badge/GAS(Google%20Apps%20Script)-GOOD-green?style=for-the-badge&logo=google)
 
 ---
 
