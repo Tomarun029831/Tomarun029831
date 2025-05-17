@@ -17,15 +17,13 @@
 
 ### 🔵 NORMAL
 ![C](https://img.shields.io/badge/C-NORMAL-blue?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-NORMAL-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-NORMAL-blue?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-LEARNING-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-LEARNING-blue?style=for-the-badge&logo=java)
 
 ### 🔴 BAD
 ![C++](https://img.shields.io/badge/C%2B%2B-BAD-red?style=for-the-badge&logo=c%2B%2B)
-![HTML](https://img.shields.io/badge/HTML-BAD-red?style=for-the-badge&logo=HTML)
-![CSS](https://img.shields.io/badge/CSS-BAD-red?style=for-the-badge&logo=CSS)
-
-
+![HTML](https://img.shields.io/badge/HTML-BAD-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-BAD-red?style=for-the-badge&logo=css3)
 
 ### ⚪️ ONLY SYNTAX
 ![Ruby](https://img.shields.io/badge/Ruby-ONLYSYNTAX-lightgrey?style=for-the-badge&logo=ruby)
@@ -36,7 +34,7 @@
 ## Framework Accomplished Tier
 ### 🟢 GOOD
 ![Unity](https://img.shields.io/badge/Unity-GOOD-green?style=for-the-badge&logo=unity)
-![Google Apps Script](https://img.shields.io/badge/GAS(Google%20Apps%20Script)-GOOD-green?style=for-the-badge&logo=google)
+![Google Apps Script](https://img.shields.io/badge/GAS(Google%20Apps%20Script)-LEARING-green?style=for-the-badge&logo=google)
 
 ---
 
