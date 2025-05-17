@@ -26,6 +26,23 @@
 ![Ruby](https://img.shields.io/badge/Ruby-ONLYSYNTAX-lightgrey?style=for-the-badge&logo=ruby)
 ![Perl](https://img.shields.io/badge/Perl-ONLYSYNTAX-lightgrey?style=for-the-badge&logo=perl)
 
+## Framework Acompolished Tier
+### 🟢 GOOD
+![Unity](https://img.shields.io/badge/Unity-GOOD-green?style=for-the-badge&logo=unity)
+![Google Apps Script](https://img.shields.io/badge/GAS-GOOD-green?style=for-the-badge&logo=google)
+
+
+## Editor Acompolished Tier
+### 🟢 GOOD
+![VSCode](https://img.shields.io/badge/VSCode-GOOD-green?for-the-badge&logo=vscode)
+
+### 🔵 NORMAL
+![VS Community](https://img.shields.io/badge/VScommunity-GOOD-green?for-the-badge&logo=VScommunity)
+
+### 💛 RESPECT / LOVE
+![Vim](https://img.shields.io/badge/vim-LOVE-yellow?for-the-badge&logo=vim)
+![Neovim](https://img.shields.io/badge/neovim-LOVE-yellow?for-the-badge&logo=neovim)
+
 ## Histories
 ### Enrolled in Computer Science Course, NITIC - from Apr. 2022 to ...
 Enrolled in National Institute of Technology, Ibaraki College
