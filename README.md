@@ -34,10 +34,10 @@
 
 ## Editor Acompolished Tier
 ### 🟢 GOOD
-![VSCode](https://img.shields.io/badge/VSCode-GOOD-green?for-the-badge&logo=vscode)
+![VSCode](https://img.shields.io/badge/VSCode-GOOD-green?style=for-the-badge&logo=visualstudiocode)
 
 ### 🔵 NORMAL
-![VS Community](https://img.shields.io/badge/VScommunity-GOOD-green?for-the-badge&logo=VScommunity)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-NORMAL-blue?style=for-the-badge&logo=visualstudio)
 
 ### 💛 RESPECT / LOVE
 ![Vim](https://img.shields.io/badge/vim-LOVE-yellow?for-the-badge&logo=vim)
