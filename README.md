@@ -26,7 +26,7 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 ### 💛 RESPECT / LOVE  
 ![JavaScript](https://img.shields.io/badge/JavaScript-RESPECT-blue?style=for-the-badge&logo=javascript)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-LOVE-blue?style=for-the-badge&logo=typescript)  
-![LiSP](https://img.shields.io/badge/LiSP-RESPECT-bad?style=for-the-badge&logo=gnu)
+![LiSP](https://img.shields.io/badge/LiSP-RESPECT-red?style=for-the-badge&logo=gnu)
 
 ### 🟢 GOOD  
 ![C#](https://img.shields.io/badge/C%23/UNITY-GOOD-green?style=for-the-badge&logo=c-sharp)
