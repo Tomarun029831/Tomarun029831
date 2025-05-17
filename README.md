@@ -38,17 +38,59 @@
 
 ---
 
+## Operating System Tier
+
+### 🟢 GOOD
+![Windows](https://img.shields.io/badge/Windows-GOOD-blue?style=for-the-badge&logo=windows)
+![Linux/WSL](https://img.shields.io/badge/Linux%2FWSL-GOOD-green?style=for-the-badge&logo=linux)
+
+### 💡 INTERESTING
+![macOS](https://img.shields.io/badge/macOS-INTERESTING-lightgrey?style=for-the-badge&logo=apple)
+
+---
+
+## Terminal / Shell Tier
+
+### 🟡 NICE
+![PowerShell](https://img.shields.io/badge/PowerShell-NICE-yellow?style=for-the-badge&logo=powershell)
+![WezTerm](https://img.shields.io/badge/WezTerm-NICE-yellow?style=for-the-badge)
+
+---
+
+## Command Tier
+### 🟡 NICE
+![winget](https://img.shields.io/badge/winget-NICE-yellow?style=for-the-badge)
+![npm](https://img.shields.io/badge/npm-NICE-yellow?style=for-the-badge&logo=npm)
+![ls](https://img.shields.io/badge/ls-NICE-yellow?style=for-the-badge)
+![dir](https://img.shields.io/badge/dir-NICE-yellow?style=for-the-badge)
+![touch](https://img.shields.io/badge/touch-NICE-yellow?style=for-the-badge)
+![echo](https://img.shields.io/badge/echo-NICE-yellow?style=for-the-badge)
+![cd](https://img.shields.io/badge/cd-NICE-yellow?style=for-the-badge)
+![git](https://img.shields.io/badge/git-NICE-yellow?style=for-the-badge&logo=git)
+
+
+---
+
 ## Editor Accomplished Tier
 ### 💛 RESPECT / LOVE
 ![Vim](https://img.shields.io/badge/Vim-LOVE-yellow?style=for-the-badge&logo=vim)
 ![Neovim](https://img.shields.io/badge/Neovim-LOVE-yellow?style=for-the-badge&logo=neovim)
-
 
 ### 🟢 GOOD
 ![VSCode](https://img.shields.io/badge/VSCode-GOOD-green?style=for-the-badge&logo=visualstudiocode)
 
 ### 🔵 NORMAL
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-NORMAL-blue?style=for-the-badge&logo=visualstudio)
+
+## Neovim Plugin List
+![LazyVim](https://img.shields.io/badge/LazyVim-CONFIG-lightgreen?style=for-the-badge)
+![LazyGit](https://img.shields.io/badge/LazyGit-TOOL-yellow?style=for-the-badge)
+![Mason.nvim](https://img.shields.io/badge/Mason-INSTALLER-blue?style=for-the-badge)
+![Telescope.nvim](https://img.shields.io/badge/Telescope-FUZZYFINDER-purple?style=for-the-badge)
+![nvim-tree](https://img.shields.io/badge/nvim--tree-FILETREE-orange?style=for-the-badge)
+![lualine.nvim](https://img.shields.io/badge/lualine-STATUSLINE-cyan?style=for-the-badge)
+![nvim-cmp](https://img.shields.io/badge/nvim--cmp-COMPLETION-brightgreen?style=for-the-badge)
+![Treesitter](https://img.shields.io/badge/Treesitter-SYNTAX-red?style=for-the-badge)
 
 ## Histories
 ### Enrolled in Computer Science Course, NITIC - from Apr. 2022 to ...
