@@ -7,17 +7,22 @@
 ### General
 
 ### Language Acompolished Tier
+### 🟢 GOOD
 ![C#](https://img.shields.io/badge/C%23-GOOD-green?style=for-the-badge&logo=c-sharp)
 
+### 🔵 NORMAL
 ![C](https://img.shields.io/badge/C-NORMAL-blue?style=for-the-badge&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-RESPECT-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-LOVE-blue?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-NORMAL-blue?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-NORMAL-blue?style=for-the-badge&logo=java)
 
-![C++](https://img.shields.io/badge/C++-BAD-red?style=for-the-badge&logo=c%2B%2B)
+### 💛 RESPECT / LOVE
+![JavaScript](https://img.shields.io/badge/JavaScript-RESPECT-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-LOVE-blue?style=for-the-badge&logo=typescript)
 
+### 🔴 BAD
+![C++](https://img.shields.io/badge/C%2B%2B-BAD-red?style=for-the-badge&logo=c%2B%2B)
 
+### ⚪️ ONLY SYNTAX
 ![Ruby](https://img.shields.io/badge/Ruby-ONLYSYNTAX-lightgrey?style=for-the-badge&logo=ruby)
 ![Perl](https://img.shields.io/badge/Perl-ONLYSYNTAX-lightgrey?style=for-the-badge&logo=perl)
 
