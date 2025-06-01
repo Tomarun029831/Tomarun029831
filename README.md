@@ -127,7 +127,7 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 ### 🎓 Enrolled in Computer Science Course, NITIC - from Apr. 2022 to ...
 Enrolled in National Institute of Technology, Ibaraki College
 
-CLIアプリ（C言語）：ローカルでの簡易アプリを初めて作成。環境差による文字化けやクラッシュに悩む。  
+[CLIアプリ（C言語）](https://github.com/Tomarun029831/CalculationSolitaire)：ローカルでの簡易アプリを初めて作成。環境差による文字化けやクラッシュに悩む。  
 文化祭：学校内でslot/rouletteアプリの開発を担当。初めてのチーム開発。構成班、映像班、音響、装飾などと連携しながら、プログラム班として成果物を完成させる。  
 ハッカソン（準優勝）：タイ・日本合同のハッカソンにて、現地チームとの即席協働を経験。技術以上に「相手の背景や考えを理解する力」が重要であると痛感。  
 
