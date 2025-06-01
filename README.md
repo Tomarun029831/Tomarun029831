@@ -9,6 +9,7 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 ---
 
 ## 🛠️ === Skills ===
+404 :(
 
 ---
 
@@ -19,7 +20,6 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 - 『達人プログラマー』
 - 『ネットワークはなぜつながるのか』
 - 『テスト駆動開発』
-
 
 ---
 
