@@ -117,8 +117,9 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 ## 🖥️ === Terminal / Shell Tier ===
 
 ### 🟡 NICE  
-![PowerShell](https://img.shields.io/badge/PowerShell-NICE-yellow?style=for-the-badge&logo=powershell)
-![WezTerm](https://img.shields.io/badge/WezTerm-NICE-yellow?style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-NICE-yellow?style=for-the-badge&logo=powershell)  
+![Alacritty](https://img.shields.io/badge/Alacritty-NICE-yellow?style=for-the-badge)  
+![WezTerm](https://img.shields.io/badge/WezTerm-Normal-blue?style=for-the-badge)
 
 ---
 
