@@ -151,18 +151,16 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 
 ---
 
-## 🔌 === Neovim Plugin List ===
-
-![LazyVim](https://img.shields.io/badge/LazyVim-CONFIG-lightgreen?style=for-the-badge)  
-![LazyGit](https://img.shields.io/badge/LazyGit-TOOL-yellow?style=for-the-badge)  
-![Mason.nvim](https://img.shields.io/badge/Mason-INSTALLER-blue?style=for-the-badge)  
-![Telescope.nvim](https://img.shields.io/badge/Telescope-FUZZYFINDER-purple?style=for-the-badge)  
-![nvim-tree](https://img.shields.io/badge/nvim--tree-FILETREE-orange?style=for-the-badge)  
-![lualine.nvim](https://img.shields.io/badge/lualine-STATUSLINE-cyan?style=for-the-badge)  
-![nvim-cmp](https://img.shields.io/badge/nvim--cmp-COMPLETION-brightgreen?style=for-the-badge)  
-![Treesitter](https://img.shields.io/badge/Treesitter-SYNTAX-red?style=for-the-badge)
+## 🔌 === Neovim Settings ===  
+https://github.com/Tomarun029831/NeovimSettings
 
 ---
+
+## 🔌 === Alacritty Settings ===  
+https://github.com/Tomarun029831/AlacrittySettings
+
+---
+
 
 ## 📚 === Histories ===  
 ### 🎓 Enrolled in Computer Science Course, NITIC - from Apr. 2022 to ...
