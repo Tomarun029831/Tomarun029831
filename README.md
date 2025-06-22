@@ -151,13 +151,9 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 
 ---
 
-## 🔌 === Neovim Settings ===  
-https://github.com/Tomarun029831/NeovimSettings
-
----
-
-## 🔌 === Alacritty Settings ===  
-https://github.com/Tomarun029831/AlacrittySettings
+## 🔌 === Dotfiles ===  
+[Neovim](https://github.com/Tomarun029831/NeovimSettings)  
+[Alacritty](https://github.com/Tomarun029831/AlacrittySettings)  
 
 ---
 
