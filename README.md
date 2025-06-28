@@ -170,7 +170,7 @@ RoamBird : タイ・日本合同のハッカソンに向けてUnity学習のた�
 ## 🚀 === Now ===
 高専インカレチャレンジ  
 [PBL - BlackBoardCleaner](https://github.com/Tomarun029831/BlackBoardCleaner)  
-プログラミングコンテスト予選 : 課題部門
+プログラミングコンテスト課題部門 : 予選通過  
 
 ## 🏆 === Prizes ===  
 ### 🇹🇭 1st runner-up Prize in Thailand - Japan Game Programming Hackathon 2024 The Final Round - Dec. 2024  
