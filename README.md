@@ -186,12 +186,12 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 _Enrolled in Computer Science Course since Apr. 2022_
 
 2024:  
-  3I Shikosai Project
+  3I Shikosai Project  
   Thailand - Japan Game Programming Hackathon 2024 The Final Round - Dec. 2024
 
 2025:  
   Kosen Intercollegiates Challenge  
-  36th Matsue National College Programming Contest (Assignment Division)  
+  36th Matsue National College Programming Contest (Assignment Division)
 
 ## 🏆 === Prizes ===  
 ### 🇹🇭 1st runner-up Prize in Thailand - Japan Game Programming Hackathon 2024 The Final Round - Dec. 2024  
