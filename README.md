@@ -148,32 +148,20 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 ## 🖥️ === Terminal / Shell Tier ===
 
 ### 🟡 NICE  
-![PowerShell](https://img.shields.io/badge/PowerShell-NICE-yellow?style=for-the-badge&logo=powershell)  
+![PowerShell](https://img.shields.io/badge/PowerShell-NICE-yellow?style=for-the-badge&logo=powershell)
 ![NuShell](https://img.shields.io/badge/NuShell-NICE-yellow?style=for-the-badge&logo=nushell)
-![Alacritty](https://img.shields.io/badge/Alacritty-NICE-yellow?style=for-the-badge)  
+![Alacritty](https://img.shields.io/badge/Alacritty-NICE-yellow?style=for-the-badge)
+
+### 🔵 NORMAL  
 ![WezTerm](https://img.shields.io/badge/WezTerm-Normal-blue?style=for-the-badge)
-
----
-
-## ⚙️ === Command Tier ===
-
-### 🟡 NICE  
-![winget](https://img.shields.io/badge/winget-NICE-yellow?style=for-the-badge)
-![npm](https://img.shields.io/badge/npm-NICE-yellow?style=for-the-badge&logo=npm)  
-![ls](https://img.shields.io/badge/ls-NICE-yellow?style=for-the-badge)
-![dir](https://img.shields.io/badge/dir-NICE-yellow?style=for-the-badge)  
-![touch](https://img.shields.io/badge/touch-NICE-yellow?style=for-the-badge)
-![echo](https://img.shields.io/badge/echo-NICE-yellow?style=for-the-badge)  
-![cd](https://img.shields.io/badge/cd-NICE-yellow?style=for-the-badge)  
-![git](https://img.shields.io/badge/git-NICE-yellow?style=for-the-badge&logo=git)
 
 ---
 
 ## 📝 === Editor Accomplished Tier ===
 
 ### 💛 RESPECT / LOVE  
-![Vim](https://img.shields.io/badge/Vim-LOVE-yellow?style=for-the-badge&logo=vim)
-![Neovim](https://img.shields.io/badge/Neovim-LOVE-yellow?style=for-the-badge&logo=neovim)
+![Vim](https://img.shields.io/badge/Vim-LOVE-yellow?style=for-the-badge&logo=vim)  
+![Neovim](https://img.shields.io/badge/Neovim-LOVE-yellow?style=for-the-badge&logo=neovim)  
 
 ### 🟢 GOOD  
 ![VSCode](https://img.shields.io/badge/VSCode-GOOD-green?style=for-the-badge&logo=visualstudiocode)
