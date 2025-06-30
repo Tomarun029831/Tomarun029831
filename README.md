@@ -22,7 +22,7 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
   <li><a href="https://play.unity.com/en/games/dae4eae7-04fb-46ca-8ecd-b6d405c7df6b/roambird">RoamBird</a></li>
   <li><a href="https://github.com/Tomarun029831/BlackBoardCleaner">BlackBoardCleaner</a></li>
   <li><a href="https://www.smbcnikko.co.jp/fs/kosen/202503">Kosen Intercollegiates Challenge</a></li>
-  <li><a href="https://github.com/SpaghettiCode-Union"></a>KIKORI GLASS</li>
+  <li><a href="https://github.com/SpaghettiCode-Union">KIKORI GLASS</a></li>
 </ul>
 </details>
 
