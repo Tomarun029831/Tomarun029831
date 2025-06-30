@@ -4,7 +4,27 @@
 ![Have written code for: 2yrs](https://img.shields.io/badge/Have_written_code_for-2_yrs-critical?style=for-the-badge)
 
 🎮 My hobby is **game development**!  
-Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/games/dae4eae7-04fb-46ca-8ecd-b6d405c7df6b/fluppybird)
+Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/games/dae4eae7-04fb-46ca-8ecd-b6d405c7df6b/roambird)
+
+---
+
+### 🧪 Projects  
+<details>
+<summary>🛠️ In Completed</summary>
+<ul>
+  <li>3I Shikosai</li>
+</ul>
+</details>
+
+<details>
+<summary>🚧 In Progress</summary>
+<ul>
+  <li><a href="https://play.unity.com/en/games/dae4eae7-04fb-46ca-8ecd-b6d405c7df6b/roambird">RoamBird</a></li>
+  <li><a href="https://github.com/Tomarun029831/BlackBoardCleaner">BlackBoardCleaner</a></li>
+  <li><a href="https://www.smbcnikko.co.jp/fs/kosen/202503">Kosen Intercollegiates Challenge</a></li>
+  <li><a href="https://github.com/SpaghettiCode-Union"></a>KIKORI GLASS</li>
+</ul>
+</details>
 
 ---
 
@@ -173,26 +193,17 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 ## 📚 === Histories ===  
 
 ### 🎓 Education  
+2022:  
 **National Institute of Technology, Ibaraki College**  
 _Enrolled in Computer Science Course since Apr. 2022_
 
-### 🧪 Projects  
-<details>
-<summary>🛠️ In Completed</summary>
-<ul>
-  <li>3I Shikosai</li>
-</ul>
-</details>
+2024:  
+  3I Shikosai Project
+  Thailand - Japan Game Programming Hackathon 2024 The Final Round - Dec. 2024
 
-<details>
-<summary>🚧 In Progress</summary>
-<ul>
-  <li><a href="https://play.unity.com/en/games/dae4eae7-04fb-46ca-8ecd-b6d405c7df6b/roambird">RoamBird</a></li>
-  <li><a href="https://github.com/Tomarun029831/BlackBoardCleaner">BlackBoardCleaner</a></li>
-  <li><a href="https://www.smbcnikko.co.jp/fs/kosen/202503">Kosen Intercollegiates Challenge</li>
-  <li><a href="https://www.procon.gr.jp">36th Matsue National College Programming Contest (Assignment Division)</a></li>
-</ul>
-</details>
+2025:  
+  Kosen Intercollegiates Challenge  
+  36th Matsue National College Programming Contest (Assignment Division)  
 
 ## 🏆 === Prizes ===  
 ### 🇹🇭 1st runner-up Prize in Thailand - Japan Game Programming Hackathon 2024 The Final Round - Dec. 2024  
