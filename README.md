@@ -16,57 +16,61 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 ## 📚 === Books ===  
 <details>
 <summary>✅ Already Read (既読)</summary>
-- [x] 『ゲームで学ぶJavaScript入門 増補改訂版～ブラウザゲームづくりでHTML＆CSSも身につく！』
-- [x] 『確かな力が身につくJavaScript「超」入門 第2版』
-- [x] 『1週間でC++の基礎が学べる本 (1週間プログラミング)』
-- [x] 『確かな力が身につく C#「超」入門 第3版 (Informatics & IDEA)』
-- [x] 『Pythonでつくる ゲーム開発 入門講座』
-- [x] 『Pythonでつくる ゲーム開発 入門講座 実践編』
-- [x] 『Pythonで作って学べる ゲームのアルゴリズム入門』
-- [x] 『確かな力が身につく C#「超」入門 第3版 (Informatics & IDEA)』
-- [x] 『スッキリわかるJava入門』
-- [x] 『図解AWS (Amazon Web Services) の仕組みとサービスがたった1日でよくわかる』
-- [x] 『SQL : ゼロからはじめるデータベース操作』
-- [x] 『リーダブルコード』
-- [x] 『良いコード／悪いコードで学ぶ設計入門―保守しやすい 成長し続けるコードの書き方』
-- [x] 『Java言語で学ぶデザインパターン入門』
-- [x] 『達人プログラマー』
-- [x] 『ネットワークはなぜつながるのか』
-- [x] 『テスト駆動開発』
+<ul>
+  <li>『ゲームで学ぶJavaScript入門 増補改訂版～ブラウザゲームづくりでHTML＆CSSも身につく！』</li>
+  <li>『確かな力が身につくJavaScript「超」入門 第2版』</li>
+  <li>『1週間でC++の基礎が学べる本 (1週間プログラミング)』</li>
+  <li>『確かな力が身につく C#「超」入門 第3版 (Informatics & IDEA)』</li>
+  <li>『Pythonでつくる ゲーム開発 入門講座』</li>
+  <li>『Pythonでつくる ゲーム開発 入門講座 実践編』</li>
+  <li>『Pythonで作って学べる ゲームのアルゴリズム入門』</li>
+  <li>『確かな力が身につく C#「超」入門 第3版 (Informatics & IDEA)』</li>
+  <li>『スッキリわかるJava入門』</li>
+  <li>『図解AWS (Amazon Web Services) の仕組みとサービスがたった1日でよくわかる』</li>
+  <li>『SQL : ゼロからはじめるデータベース操作』</li>
+  <li>『リーダブルコード』</li>
+  <li>『良いコード／悪いコードで学ぶ設計入門―保守しやすい 成長し続けるコードの書き方』</li>
+  <li>『Java言語で学ぶデザインパターン入門』</li>
+  <li>『達人プログラマー』</li>
+  <li>『ネットワークはなぜつながるのか』</li>
+  <li>『テスト駆動開発』</li>
+</ul>
 </details>
 
 <details>
 <summary>📖 To Read (未読)</summary>
-- [ ] 『Spring徹底入門 : Spring FrameworkによるJavaアプリケーション開発』
-- [ ] 『達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ』
-- [ ] 『達人に学ぶDB設計徹底指南書 第2版』
-- [ ] 『問題解決力を鍛える!アルゴリズムとデータ構造』
-- [ ] 『コンピュータシステムの理論と実装』
-- [ ] 『コンピュータの構成と設計 MIPS Editoin 第6版 下』
-- [ ] 『コンピュータの構成と設計 MIPS Edition 第6版 上』
-- [ ] 『ゼロからのOS自作入門』
-- [ ] 『オペレーティングシステムの仕組み』
-- [ ] 『マスタリングTCP/IP―入門編―』
-- [ ] 『ゼロから作るDeep Learning』
-- [ ] 『Amazon Web Services』
-- [ ] 『Effective Java』
-- [ ] 『Clean Code アジャイルソフトウェア達人の技』
-- [ ] 『Clean Architecture 達人に学ぶソフトウェアの構造と設計』
-- [ ] 『体系的に学ぶ 安全なWebアプリケーションの作り方』
-- [ ] 『Docker実践ガイド』
-- [ ] 『Kubernetes完全ガイド』
-- [ ] 『Kotlin サーバーサイドプログラミング実践開発』
-- [ ] 『Good Code, Bad Code ～持続可能な開発のためのソフトウェアエンジニア的思考』
-- [ ] 『Web API: The Good Parts』
-- [ ] 『Webを支える技術 -HTTP、URI、HTML、そしてREST (WEB+DB PRESSプラスシリーズ)』
-- [ ] 『世界で闘うプログラミング力を鍛える本 ~コーディング面接189問とその解法~』
-- [ ] 『［作って学ぶ］ブラウザのしくみ──HTTP、HTML、CSS、JavaScriptの裏側 (WEB+DB PRESS plusシリーズ)』
-- [ ] 『Javaによる関数型プログラミング ―Java 8ラムダ式とStream』
-- [ ] 『［試して理解］Linuxのしくみ　―実験と図解で学ぶOS、仮想マシン、コンテナの基礎知識』
-- [ ] 『データ指向アプリケーションデザイン ―信頼性、拡張性、保守性の高い分散システム設計の原理』
-- [ ] 『冒険の書　AI時代のアンラーニング』
-- [ ] 『チェス上達の手引き　第2版(チェス・クラシックス ; 8)』
-- [ ] 『実践Rustプログラミング入門』  
+<ul>
+  <li>『Spring徹底入門 : Spring FrameworkによるJavaアプリケーション開発』</li>
+  <li>『達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ』</li>
+  <li>『達人に学ぶDB設計徹底指南書 第2版』</li>
+  <li>『問題解決力を鍛える!アルゴリズムとデータ構造』</li>
+  <li>『コンピュータシステムの理論と実装』</li>
+  <li>『コンピュータの構成と設計 MIPS Editoin 第6版 下』</li>
+  <li>『コンピュータの構成と設計 MIPS Edition 第6版 上』</li>
+  <li>『ゼロからのOS自作入門』</li>
+  <li>『オペレーティングシステムの仕組み』</li>
+  <li>『マスタリングTCP/IP―入門編―』</li>
+  <li>『ゼロから作るDeep Learning』</li>
+  <li>『Amazon Web Services』</li>
+  <li>『Effective Java』</li>
+  <li>『Clean Code アジャイルソフトウェア達人の技』</li>
+  <li>『Clean Architecture 達人に学ぶソフトウェアの構造と設計』</li>
+  <li>『体系的に学ぶ 安全なWebアプリケーションの作り方』</li>
+  <li>『Docker実践ガイド』</li>
+  <li>『Kubernetes完全ガイド』</li>
+  <li>『Kotlin サーバーサイドプログラミング実践開発』</li>
+  <li>『Good Code, Bad Code ～持続可能な開発のためのソフトウェアエンジニア的思考』</li>
+  <li>『Web API: The Good Parts』</li>
+  <li>『Webを支える技術 -HTTP、URI、HTML、そしてREST (WEB+DB PRESSプラスシリーズ)』</li>
+  <li>『世界で闘うプログラミング力を鍛える本 ~コーディング面接189問とその解法~』</li>
+  <li>『［作って学ぶ］ブラウザのしくみ──HTTP、HTML、CSS、JavaScriptの裏側 (WEB+DB PRESS plusシリーズ)』</li>
+  <li>『Javaによる関数型プログラミング ―Java 8ラムダ式とStream』</li>
+  <li>『［試して理解］Linuxのしくみ　―実験と図解で学ぶOS、仮想マシン、コンテナの基礎知識』</li>
+  <li>『データ指向アプリケーションデザイン ―信頼性、拡張性、保守性の高い分散システム設計の原理』</li>
+  <li>『冒険の書　AI時代のアンラーニング』</li>
+  <li>『チェス上達の手引き　第2版(チェス・クラシックス ; 8)』</li>
+  <li>『実践Rustプログラミング入門』</li>  
+</ul>
 </details>
 
 ---
@@ -186,7 +190,7 @@ _Enrolled in Computer Science Course since Apr. 2022_
   <li><a href="https://play.unity.com/en/games/dae4eae7-04fb-46ca-8ecd-b6d405c7df6b/roambird">RoamBird</a></li>
   <li><a href="https://github.com/Tomarun029831/BlackBoardCleaner">BlackBoardCleaner</a></li>
   <li><a href="https://www.smbcnikko.co.jp/fs/kosen/202503">Kosen Intercollegiates Challenge</li>
-  <li><a href="https://www.procon.gr.jp">36th Matsue Programming Contest (Task-Oriented Division)</a></li>
+  <li><a href="https://www.procon.gr.jp">36th Matsue National College Programming Contest (Assignment Division)</a></li>
 </ul>
 </details>
 
