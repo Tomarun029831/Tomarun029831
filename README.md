@@ -54,6 +54,7 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
   <li>『達人プログラマー』</li>
   <li>『ネットワークはなぜつながるのか』</li>
   <li>『テスト駆動開発』</li>
+  <li>『［試して理解］Linuxのしくみ　―実験と図解で学ぶOS、仮想マシン、コンテナの基礎知識』</li>
 </ul>
 </details>
 
@@ -85,7 +86,6 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
   <li>『世界で闘うプログラミング力を鍛える本 ~コーディング面接189問とその解法~』</li>
   <li>『［作って学ぶ］ブラウザのしくみ──HTTP、HTML、CSS、JavaScriptの裏側 (WEB+DB PRESS plusシリーズ)』</li>
   <li>『Javaによる関数型プログラミング ―Java 8ラムダ式とStream』</li>
-  <li>『［試して理解］Linuxのしくみ　―実験と図解で学ぶOS、仮想マシン、コンテナの基礎知識』</li>
   <li>『データ指向アプリケーションデザイン ―信頼性、拡張性、保守性の高い分散システム設計の原理』</li>
   <li>『冒険の書　AI時代のアンラーニング』</li>
   <li>『チェス上達の手引き　第2版(チェス・クラシックス ; 8)』</li>
