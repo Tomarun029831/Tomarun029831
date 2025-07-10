@@ -90,6 +90,7 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
   <li>『冒険の書　AI時代のアンラーニング』</li>
   <li>『チェス上達の手引き　第2版(チェス・クラシックス ; 8)』</li>
   <li>『実践Rustプログラミング入門』</li>  
+  <li>『情熱プログラマー ソフトウェア開発者の幸せな生き方』</li>
 </ul>
 </details>
 
