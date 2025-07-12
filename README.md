@@ -187,15 +187,17 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 _Enrolled in Computer Science Course since Apr. 2022_
 
 2024:  
-  3I Shikosai Project  
-  Thailand - Japan Game Programming Hackathon 2024 The Final Round - Dec. 2024
+  Oct. - 3I Shikosai Project  
+  Dec. - Thailand - Japan Game Programming Hackathon 2024 The Final Round - Dec. 2024
 
 2025:  
-  Kosen Intercollegiates Challenge  
-  36th Matsue National College Programming Contest (Assignment Division)
+  Jul. - Kosen Intercollegiates Challenge  
+  Oct. - 36th Matsue National College Programming Contest (Assignment Division)
 
 ## 🏆 === Prizes ===  
 ### 🇹🇭 1st runner-up Prize in Thailand - Japan Game Programming Hackathon 2024 The Final Round - Dec. 2024  
 Got 1st runner-up Prize in international game programming hackathon using Unity.  
 [EarthDefense](https://play.unity.com/en/games/f29d60f8-c03a-43ed-9983-1281f630518e/earth-defense)  
 Co-developed with [k4nk1](https://github.com/k4nk1) and two others.
+
+### 優秀賞(2st) - Kosen Intercolleage Challenge 6th
