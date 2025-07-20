@@ -61,6 +61,7 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 <details>
 <summary>📖 To Read (未読)</summary>
 <ul>
+  <li>『オブジェクト指向における再利用のためのデザインパターン』</li>
   <li>『Spring徹底入門 : Spring FrameworkによるJavaアプリケーション開発』</li>
   <li>『達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ』</li>
   <li>『達人に学ぶDB設計徹底指南書 第2版』</li>
