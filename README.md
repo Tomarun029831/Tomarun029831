@@ -29,7 +29,7 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 ---
 
 ## 🛠️ === Skills ===
-404 :(
+<li>技術英検二級</li>
 
 ---
 
