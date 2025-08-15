@@ -1,4 +1,4 @@
-# 🎮 Game Developer & Code Enthusiast
+# Code Enthusiast
 
 <div align="center">
   
