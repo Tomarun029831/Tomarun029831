@@ -8,7 +8,7 @@
 
 **🚀 Passionate about creating interactive experiences through code**
 
-[![Play RoamBird](https://img.shields.io/badge/🎮_Play_RoamBird-Unity_Game-blue?style=for-the-badge&logo=unity)](https://play.unity.com/en/games/dae4eae7-04fb-46ca-8ecd-b6d405c7df6b/roambird)
+[![Play RoamBird](https://img.shields.io/badge/🎮_Play_RoamBird-Click_Here-blue?style=for-the-badge&logo=unity)](https://play.unity.com/en/games/dae4eae7-04fb-46ca-8ecd-b6d405c7df6b/roambird)
 
 </div>
 
@@ -20,9 +20,9 @@
 <tr>
 <td width="33%">
 
-### 🛠️ Completed
-- **3I Shikosai Project**
-- **[Kosen Intercollegiates Challenge](https://www.smbcnikko.co.jp/fs/kosen/202503)**
+### 📦 On Hold
+- **[RoamBird](https://play.unity.com/en/games/dae4eae7-04fb-46ca-8ecd-b6d405c7df6b/roambird)**
+- **[BlackBoardCleaner](https://github.com/Tomarun029831/BlackBoardCleaner)**
 
 </td>
 <td width="33%">
@@ -33,9 +33,9 @@
 </td>
 <td width="33%">
 
-### 📦 On Hold
-- **[RoamBird](https://play.unity.com/en/games/dae4eae7-04fb-46ca-8ecd-b6d405c7df6b/roambird)**
-- **[BlackBoardCleaner](https://github.com/Tomarun029831/BlackBoardCleaner)**
+### 🛠️ Completed
+- **3I Shikosai Project**
+- **[Kosen Intercollegiates Challenge](https://www.smbcnikko.co.jp/fs/kosen/202503)**
 
 </td>
 </tr>
@@ -115,8 +115,8 @@
 <td width="25%">
 
 ### **✏️ Editors**
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) *(Love)*
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) *(Love)*
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
