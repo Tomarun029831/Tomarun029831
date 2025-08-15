@@ -258,8 +258,7 @@ timeline
 ## 🌟 Let's Build Something Amazing Together!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tomarun029831)
-[![Unity](https://img.shields.io/badge/Unity-Play_My_Games-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)](https://play.unity.com/en/games/dae4eae7-04fb-46ca-8ecd-b6d405c7df6b/roambird)
 
-*"Code is poetry written in logic"* ✨
+*"Code is art"* ✨
 
 </div>
