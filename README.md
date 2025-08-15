@@ -20,9 +20,15 @@ Check out one of my mini games 👉 [**RoamBird**](https://play.unity.com/en/gam
 <details>
 <summary>🚧 In Progress</summary>
 <ul>
+  <li><a href="https://github.com/SpaghettiCode-Union">KIKORI GLASS</a></li>
+</ul>
+</details>
+
+<details>
+<summary>📦 On Hold</summary>
+<ul>
   <li><a href="https://play.unity.com/en/games/dae4eae7-04fb-46ca-8ecd-b6d405c7df6b/roambird">RoamBird</a></li>
   <li><a href="https://github.com/Tomarun029831/BlackBoardCleaner">BlackBoardCleaner</a></li>
-  <li><a href="https://github.com/SpaghettiCode-Union">KIKORI GLASS</a></li>
 </ul>
 </details>
 
