@@ -251,6 +251,21 @@ timeline
          : 36th Matsue Programming Contest (Oct)
 ```
 
+📊 GitHub Statistics
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Tomarun029831&column=10&theme=gruvbox&no-frame=true"/>
+</a>
+</div>
+
+<div align="center">
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Tomarun029831&count_private=true&include_all_commits=true&theme=gruvbox&show_icons=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomarun029831&layout=compact&theme=gruvbox&border_radius=10" />
+</div>
+</div>
+<br clear="left"/>
+
 ---
 
 <div align="center">
