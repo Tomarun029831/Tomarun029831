@@ -255,17 +255,17 @@ timeline
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <!-- Trophy -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Tomarun029831&column=10&theme=radical&no-frame=true" />
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Tomarun029831&column=10&theme=onestar&no-frame=true" />
   </a>
   <!-- Stats & Top Languages & Percentile -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tomarun029831&count_private=true&include_all_commits=true&theme=radical&show_icons=true&border_radius=10" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomarun029831&layout=compact&theme=radical&border_radius=10" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tomarun029831&count_private=true&include_all_commits=true&theme=radical&show_icons=true&border_radius=10&rank_icon=percentile" alt="GitHub Stats Percentile" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tomarun029831&count_private=true&include_all_commits=true&theme=dark&show_icons=true&border_radius=10" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomarun029831&layout=compact&theme=dark&border_radius=10" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tomarun029831&count_private=true&include_all_commits=true&theme=dark&show_icons=true&border_radius=10&rank_icon=percentile" alt="GitHub Stats Percentile" />
   </div>
   <!-- Streak -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Tomarun029831&theme=radical&border_radius=10" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Tomarun029831&theme=dark&border_radius=10" alt="GitHub Streak" />
   </a>
 </div>
 
