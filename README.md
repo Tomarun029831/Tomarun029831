@@ -241,8 +241,10 @@
 ```mermaid
 timeline
     title Academic & Competition Timeline
+
+    2022 : Enroll at NIT Ibaraki
     
-    2022 : Started CS at NIT Ibaraki
+    2023 : Started CS at NIT Ibaraki
     
     2024 : 3I Shikosai Project (Oct)
          : Thailand-Japan Hackathon 🥈 (Dec)
