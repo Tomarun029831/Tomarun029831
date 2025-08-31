@@ -247,7 +247,7 @@ timeline
     2023 : Started CS at NIT Ibaraki
     
     2024 : 3I Shikosai Project (Oct)
-         : Thailand-Japan Hackathon 🥈 (Dec)
+         : Thailand-Japan Game Programming Hackathon (Dec)
     
     2025 : Kosen Intercollegiates Challenge (Jul)
          : TwoGate DevCamp (Sep)
@@ -271,9 +271,6 @@ timeline
     <img src="https://streak-stats.demolab.com?user=Tomarun029831&theme=dark&border_radius=10" alt="GitHub Streak" />
   </a>
 </div>
-
-
-
 
 ---
 
