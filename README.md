@@ -248,6 +248,7 @@ timeline
          : Thailand-Japan Hackathon 🥈 (Dec)
     
     2025 : Kosen Intercollegiates Challenge (Jul)
+         : TwoGate DevCamp (Sep)
          : 36th Matsue Programming Contest (Oct)
 ```
 
