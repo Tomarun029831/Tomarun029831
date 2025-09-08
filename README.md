@@ -268,7 +268,7 @@ timeline
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tomarun029831&count_private=true&include_all_commits=true&theme=dark&show_icons=true&border_radius=10" />
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomarun029831&layout=compact&theme=dark&border_radius=10" />
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tomarun029831&count_private=true&include_all_commits=true&theme=dark&show_icons=true&border_radius=10&rank_icon=percentile" alt="GitHub Stats Percentile" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tomarun029831&range=last_7_days&layout=compact&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tomarun029831&layout=compact&theme=transparent" />
   </div>
   <!-- Streak -->
   <a href="https://git.io/streak-stats">
