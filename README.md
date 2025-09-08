@@ -254,7 +254,8 @@ timeline
          : 36th Matsue Programming Contest (Oct)
 ```
 
-📊 GitHub Statistics
+📊 GitHub Statistics  
+[![committers.top badge](https://user-badge.committers.top/japan/Tomarun029831.svg)](https://user-badge.committers.top/japan/Tomarun029831)
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <!-- Trophy -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
