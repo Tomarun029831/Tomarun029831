@@ -44,7 +44,7 @@
 
 ---
 
-## 🏆 Achievement Unlocked
+## 🏆 Achievement
 
 <div align="center">
 
@@ -56,6 +56,8 @@
 ### 🥈 優秀賞 (2nd Place) - Kosen Intercolleage Challenge 6th
 
 ### 📜 技術英検二級 Certified
+
+### 参加賞 (Participant Award) - Twogate DevCamp 2025
 
 </div>
 
