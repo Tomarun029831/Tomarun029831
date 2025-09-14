@@ -29,7 +29,6 @@
 
 ### 🚧 In Progress
 - **[KIKORI GLASS](https://github.com/SpaghettiCode-Union)**
-- **[Twogate DevCamp](https://devcamp.twogate.com/2025)**
 
 </td>
 <td width="33%">
@@ -37,6 +36,7 @@
 ### 🛠️ Completed
 - **3I Shikosai Project**
 - **[Kosen Intercollegiates Challenge](https://www.smbcnikko.co.jp/fs/kosen/202503)**
+- **[Twogate DevCamp](https://devcamp.twogate.com/2025)**
 
 </td>
 </tr>
@@ -85,6 +85,10 @@
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 ### 👀 Only Interesting
 ![Lisp](https://img.shields.io/badge/Lisp-000000?style=for-the-badge&logo=lisp&logoColor=white)
