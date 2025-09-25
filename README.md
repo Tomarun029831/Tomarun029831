@@ -22,13 +22,13 @@
 
 ### 📦 On Hold
 - **[RoamBird](https://play.unity.com/en/games/dae4eae7-04fb-46ca-8ecd-b6d405c7df6b/roambird)**
-- **[BlackBoardCleaner](https://github.com/Tomarun029831/BlackBoardCleaner)**
 
 </td>
 <td width="33%">
 
 ### 🚧 In Progress
 - **[KIKORI GLASS](https://github.com/SpaghettiCode-Union)**
+- **[BlackBoardCleaner](https://github.com/Tomarun029831/BlackBoardCleaner)**
 
 </td>
 <td width="33%">
