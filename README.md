@@ -246,7 +246,9 @@
 
 ```mermaid
 timeline
-    title Academic & Competition Timeline
+    title My Mark On The World
+
+    2018 : Begin writing command in Minecraft
 
     2022 : Enroll at NIT Ibaraki
     
