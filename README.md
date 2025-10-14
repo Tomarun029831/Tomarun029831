@@ -3,7 +3,7 @@
 <div align="center">
   
 ![Age: 18](https://img.shields.io/badge/Age-18-ff6b35?style=for-the-badge&logo=birthday-cake&logoColor=white)
-![Coding Journey: 2yrs](https://img.shields.io/badge/Coding_Journey-2_Years-00d4aa?style=for-the-badge&logo=code&logoColor=white)
+![Coding Journey: 2.5yrs](https://img.shields.io/badge/Coding_Journey-2_Years-00d4aa?style=for-the-badge&logo=code&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Japan-e74c3c?style=for-the-badge&logo=map-pin&logoColor=white)
 
 **🚀 Passionate about creating interactive experiences through code**
