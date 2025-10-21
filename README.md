@@ -44,6 +44,15 @@
 
 ---
 
+## 📜 Certification
+<div align="center">
+
+  ### 技術英検二級 Certified  
+
+</div>
+
+---
+
 ## 🏆 Achievement
 
 <div align="center">
@@ -54,8 +63,6 @@
 *Co-developed with [k4nk1](https://github.com/k4nk1) and team*
 
 ### 🥈 優秀賞 (2nd Place) - Kosen Intercolleage Challenge 6th
-
-### 📜 技術英検二級 Certified
 
 ### 参加賞 (Participant Award) - Twogate DevCamp 2025
 
