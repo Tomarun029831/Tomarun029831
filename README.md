@@ -72,7 +72,28 @@
 
 ---
 
-## 💻 Tech Arsenal
+## 📦 Application Category
+
+**C#/Unity**  
+- AR  
+- 2D Action Game  
+- 3D Tower Defense Game  
+
+**TypeScript & GAS**  
+- GAS API for Spreadsheet (as database for account data, game progression data)
+
+**Python**  
+- Automate writing notes to undownloadable and uncopyable PDFs
+
+**C/C++ on Arduino CLI**  
+- Blackboard Cleaner (with ESP32)
+
+**C**  
+- CLI Game
+
+---
+
+## 📟 Programming Languages
 
 ### 🚀 Built Real Applications With
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -100,8 +121,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-### 👀 Only Interesting
 ![Lisp](https://img.shields.io/badge/Lisp-000000?style=for-the-badge&logo=lisp&logoColor=white)
 
 ---
