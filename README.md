@@ -15,30 +15,31 @@
 ---
 
 ## 🎯 Current Focus
-<table align=center>
-<tr>
-<td width="33%">
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
 ### 📦 On Hold
-- **[RoamBird](https://play.unity.com/en/games/dae4eae7-04fb-46ca-8ecd-b6d405c7df6b/roambird)**
-- **[KIKORI GLASS](https://github.com/SpaghettiCode-Union)**
+- [RoamBird](https://play.unity.com/en/games/dae4eae7-04fb-46ca-8ecd-b6d405c7df6b/roambird)
+- [KIKORI GLASS](https://github.com/SpaghettiCode-Union)
 
 </td>
-<td width="33%">
+<td valign="top" width="33%">
 
 ### 🚧 In Progress
-- **[BlackBoardCleaner](https://github.com/Tomarun029831/BlackBoardCleaner)**
+- [BlackBoardCleaner](https://github.com/Tomarun029831/BlackBoardCleaner)
 
 </td>
-<td width="33%">
+<td valign="top" width="33%">
 
 ### 🛠️ Completed
-- **3I Shikosai Project**
-- **[Kosen Intercollegiates Challenge](https://www.smbcnikko.co.jp/fs/kosen/202503)**
-- **[Twogate DevCamp](https://devcamp.twogate.com/2025)**
+- 3I Shikosai Project
+- [Kosen Intercollegiates Challenge](https://www.smbcnikko.co.jp/fs/kosen/202503)
+- [Twogate DevCamp](https://devcamp.twogate.com/2025)
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ---
