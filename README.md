@@ -15,8 +15,7 @@
 ---
 
 ## 🎯 Current Focus
-
-<table>
+<table align=center>
 <tr>
 <td width="33%">
 
