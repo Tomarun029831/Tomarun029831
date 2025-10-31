@@ -45,30 +45,18 @@
 ---
 
 ## 📜 Certification
-<div align="center">
-
-  ### 技術英検二級 Certified  
-
-</div>
+- ### 技術英検二級 Certified  
 
 ---
 
 ## 🏆 Achievement
-
-<div align="center">
-
-### 🥈 1st Runner-up - Thailand-Japan Game Programming Hackathon 2024
-**International Unity Game Development Competition**  
-🎮 **[EarthDefense](https://play.unity.com/en/games/f29d60f8-c03a-43ed-9983-1281f630518e/earth-defense)**  
-*Co-developed with [k4nk1](https://github.com/k4nk1) and team*
-
-### 🥈 優秀賞 (2nd Place) - Kosen Intercolleage Challenge 6th
-
-### 参加賞 (Participant Award) - Twogate DevCamp 2025
-
-### 敢闘賞 - 36th Matsue Programming Contest (Oct)
-
-</div>
+- ### 🥈 1st Runner-up - Thailand-Japan Game Programming Hackathon 2024
+    **International Unity Game Development Competition**  
+    🎮 **[EarthDefense](https://play.unity.com/en/games/f29d60f8-c03a-43ed-9983-1281f630518e/earth-defense)**  
+    *Co-developed with [k4nk1](https://github.com/k4nk1) and team*
+- ### 🥈 優秀賞 (2nd Place) - Kosen Intercolleage Challenge 6th
+- ### 参加賞 (Participant Award) - Twogate DevCamp 2025
+- ### 敢闘賞 - 36th Matsue Programming Contest (Oct)
 
 ---
 
