@@ -149,6 +149,7 @@
 ### **⚙️ Dotfiles**
 [![Neovim Config](https://img.shields.io/badge/Neovim-Config-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/Tomarun029831/NeovimSettings)
 [![Alacritty Config](https://img.shields.io/badge/Alacritty-Config-F46D01?style=for-the-badge)](https://github.com/Tomarun029831/AlacrittySettings)
+[![GlazeWM Config](https://img.shields.io/badge/GlazeWM-Config-1E90FF?style=for-the-badge)](https://github.com/Tomarun029831/GlazeWMSettings)
 
 </td>
 </tr>
