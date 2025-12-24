@@ -3,7 +3,7 @@
 <div align="center">
   
 ![Age: 18](https://img.shields.io/badge/Age-18-ff6b35?style=for-the-badge&logo=birthday-cake&logoColor=white)
-![Coding Journey: 2.5yrs](https://img.shields.io/badge/Coding_Journey-2.5_Years-00d4aa?style=for-the-badge&logo=code&logoColor=white)
+![Coding Journey: 3yrs](https://img.shields.io/badge/Coding_Journey-2.5_Years-00d4aa?style=for-the-badge&logo=code&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Japan-e74c3c?style=for-the-badge&logo=map-pin&logoColor=white)
 
 **🚀 Passionate about creating interactive experiences through code**
@@ -127,10 +127,11 @@
 </td>
 <td width="25%">
 
-### **⚡ Terminals**
+### **Shells**
 ![NuShell](https://img.shields.io/badge/NuShell-4E9A06?style=for-the-badge)
-![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=for-the-badge)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+### **Emulators**
+![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=for-the-badge)
 ![WezTerm](https://img.shields.io/badge/WezTerm-4A90E2?style=for-the-badge)
 
 </td>
@@ -147,10 +148,7 @@
 <td width="25%">
 
 ### **⚙️ Dotfiles**
-[![Neovim Config](https://img.shields.io/badge/Neovim-Config-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/Tomarun029831/NeovimSettings)
-[![Alacritty Config](https://img.shields.io/badge/Alacritty-Config-F46D01?style=for-the-badge)](https://github.com/Tomarun029831/AlacrittySettings)
-[![GlazeWM Config](https://img.shields.io/badge/GlazeWM-Config-1E90FF?style=for-the-badge)](https://github.com/Tomarun029831/GlazeWMSettings)
-
+[![dots](https://img.shields.io/badge/dotfiles-.config-555555?style=for-the-badgehttps://img.shields.io/badge/config-TOML-9C4121?style=for-the-badge&logo=toml&logoColor=white)](https://github.com/Tomarun029831/dots)
 </td>
 </tr>
 </table>
