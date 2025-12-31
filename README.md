@@ -310,9 +310,9 @@ timeline
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <!-- Trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <!-- a href="https://github.com/ryo-ma/github-profile-trophy">
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=Tomarun029831&column=10&theme=onestar&no-frame=true" />
-  </a>
+</a -->
 
   <!-- Activity Graph -->
   <img alt="Tomarun029831 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Tomarun029831&title_color=FFFFFF&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph&cache_seconds=86400" />
@@ -326,9 +326,9 @@ timeline
   </div>
 
   <!-- Streak -->
-  <a href="https://git.io/streak-stats">
+  <!-- a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Tomarun029831&theme=dark&border_radius=10&cache_seconds=86400" alt="GitHub Streak" />
-  </a>
+  <!-- /a -->
 </div>
 
 ---
