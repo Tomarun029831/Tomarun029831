@@ -309,26 +309,7 @@ timeline
 [![committers.top badge](https://user-badge.committers.top/japan/Tomarun029831.svg)](https://user-badge.committers.top/japan/Tomarun029831)
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <!-- Trophy -->
-  <!-- a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Tomarun029831&column=10&theme=onestar&no-frame=true" />
-</a -->
-
-  <!-- Activity Graph -->
-  <img alt="Tomarun029831 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Tomarun029831&title_color=FFFFFF&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph&cache_seconds=86400" />
-
-  <!-- Stats & Top Languages & Percentile -->
-  <!-- div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tomarun029831&count_private=true&include_all_commits=true&theme=dark&show_icons=true&border_radius=10&cache_seconds=86400" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomarun029831&layout=compact&theme=dark&border_radius=10&cache_seconds=86400" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tomarun029831&count_private=true&include_all_commits=true&theme=dark&show_icons=true&border_radius=10&rank_icon=percentile&cache_seconds=86400" alt="GitHub Stats Percentile" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tomarun029831&layout=compact&theme=dark&custom_title=WakaTime%20Stats%20SINCE%20SEP%208%202025&cache_seconds=86400" />
-  </div>
-
-  <!-- Streak -->
-  <!-- a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Tomarun029831&theme=dark&border_radius=10&cache_seconds=86400" alt="GitHub Streak" />
-  <!-- /a -->
+  <img alt="Tomarun029831 Activity Graph" src="github-metrics.svg" />
 </div>
 
 ---
