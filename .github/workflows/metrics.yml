@@ -1,5 +1,6 @@
 name: Metrics
 on:
+  # 毎週月曜 朝9時更新
   schedule: [{cron: "0 0 * * 1"}]
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -12,25 +13,85 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # === 必須設定 ===
           token: ${{ secrets.METRICS_TOKEN }}
-
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-
           user: Tomarun029831
           template: classic
-          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Tokyo
           
+          # === 0. 基本データ (全部入り) ===
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes           # 詳細分析モード
+
+          # === 1. 言語 (隠さず全部出す) ===
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
+          # ignored (除外リスト) は削除しました！HTMLなども全て表示されます
+          plugin_languages_limit: 0   # 表示数の制限なし（全部出す）
+          plugin_languages_threshold: 0% # 足切りなし（0%でも出す）
+          plugin_languages_details: lines, percentage, bytes-size
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes
+
+          # === 2. 詳細な活動履歴 ===
+          plugin_followup: yes        # Issue/PRの対応状況
+          plugin_followup_indepth: yes
+          plugin_followup_sections: repositories, user
           
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          plugin_isocalendar: yes     # 3Dカレンダー
+          plugin_isocalendar_duration: full-year # 半年じゃなく1年分出す
+
+          plugin_lines: yes           # コード増減の歴史
+          plugin_lines_history_limit: 5
+          plugin_lines_repositories_limit: 10
           
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_habits: yes          # コーディング習慣
+          plugin_habits_from: 200     # 過去200イベントから分析
+          plugin_habits_days: 14      # 直近14日間
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # === 3. コミュニティ・評判 ===
+          plugin_achievements: yes    # 実績バッジ
+          plugin_achievements_display: detailed # コンパクトじゃなく詳細表示
+          plugin_achievements_threshold: X      # ランクX(全表示)
+
+          plugin_stars: yes           # あなたがスターしたリポジトリ
+          plugin_stars_limit: 10
+          
+          plugin_stargazers: yes      # あなたへのスター推移
+          plugin_stargazers_charts: yes
+          
+          plugin_people: yes          # フォロワー
+          plugin_people_limit: 50     # 限界まで表示
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+
+          plugin_reactions: yes       # もらったリアクション(👍など)
+          plugin_reactions_limit: 100
+          
+          plugin_discussions: yes     # ディスカッション活動
+          plugin_discussions_categories: yes
+
+          # === 4. リポジトリ分析 ===
+          plugin_licenses: yes        # 使っているライセンスの傾向
+          plugin_licenses_setup: npm, monitor
+
+          plugin_notable: yes         # 組織への貢献
+          plugin_notable_from: all
+          
+          plugin_topics: yes          # スターしたトピック傾向
+          plugin_topics_sort: stars
+          plugin_topics_limit: 0      # 制限なし
+
+          plugin_traffic: yes         # アクセス数（要:権限）
+          
+          plugin_repositories: yes    # リポジトリ一覧
+          plugin_repositories_order: featured, pinned, starred, random
+          plugin_repositories_pinned: 6
+
+          # === 5. その他 ===
+          plugin_introduction: yes    # 自己紹介文
+          plugin_introduction_title: yes
+          
+          plugin_gists: yes           # Gistの表示
