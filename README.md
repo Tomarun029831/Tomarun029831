@@ -308,7 +308,7 @@ timeline
 📊 GitHub Statistics  
 [![committers.top badge](https://user-badge.committers.top/japan/Tomarun029831.svg)](https://user-badge.committers.top/japan/Tomarun029831)
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+<div align="center">
   <img alt="Tomarun029831 Activity Graph" src="github-metrics.svg" />
 </div>
 
