@@ -316,14 +316,16 @@ timeline
 
 <div align="center">
 
-## 🌟 Let's Build Something Amazing Together!
+## Let's Build Something Amazing Together!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tomarun029831)
 
 ---
 
-✨ *"Perfection is achieved, not when there is nothing more to add,  
-but when there is nothing left to take away."* – Antoine de Saint-Exupéry
+*"Perfection is achieved,  
+not when there is nothing more to add,  
+but when there is nothing left to take away."*  
+– Antoine de Saint-Exupéry
 
 </div>
 
