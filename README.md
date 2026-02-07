@@ -22,7 +22,6 @@
 
 ### 📦 On Hold
 - [RoamBird](https://play.unity.com/en/games/dae4eae7-04fb-46ca-8ecd-b6d405c7df6b/roambird)
-- [KIKORI GLASS](https://github.com/SpaghettiCode-Union)
 
 </td>
 <td valign="top" width="33%">
@@ -37,6 +36,7 @@
 - 3I Shikosai Project
 - [Kosen Intercollegiates Challenge](https://www.smbcnikko.co.jp/fs/kosen/202503)
 - [Twogate DevCamp](https://devcamp.twogate.com/2025)
+- [KIKORI GLASS](https://github.com/SpaghettiCode-Union)
 
 </td>
   </tr>
@@ -45,7 +45,8 @@
 ---
 
 ## 📜 Certification
-- ### 技術英検二級 Certified  
+- ### 技術英検二級 Certified
+- ### TOEIC L&R 815 (1/11)
 
 ---
 
@@ -71,7 +72,7 @@
 - GAS API for Spreadsheet (as database for account data, game progression data)
 
 **Python**  
-- Automate writing notes to undownloadable and uncopyable PDFs
+- Automate copying notes from undownloadable and uncopyable PDFs
 
 **C/C++ on Arduino CLI**  
 - Blackboard Cleaner (with ESP32)
