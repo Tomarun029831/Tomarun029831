@@ -298,17 +298,17 @@ timeline
     
     2023 : Started CS at NIT Ibaraki
     
-    2024 : 3I Shikosai Project (Oct)
-         : Thailand-Japan Game Programming Hackathon (Dec)
+    2024 : 3I Shikosai Project (Oct.)
+         : Thailand-Japan Game Programming Hackathon (Dec.)
     
-    2025 : Kosen Intercollegiates Challenge (Jul)
-         : TwoGate DevCamp (Sep)
-         : 36th Matsue Programming Contest (Oct)
+    2025 : Kosen Intercollegiates Challenge (Jul.)
+         : TwoGate DevCamp (Sep.)
+         : 36th Matsue Programming Contest (Oct.)
+         : INTERACTION 2026 (Mar.)
 ```
 
 📊 GitHub Statistics  
 [![committers.top badge](https://user-badge.committers.top/japan/Tomarun029831.svg)](https://user-badge.committers.top/japan/Tomarun029831)
-
 <div align="center">
   <img alt="Tomarun029831 Activity Graph" src="github-metrics.svg" />
 </div>
@@ -316,17 +316,8 @@ timeline
 ---
 
 <div align="center">
-
-## Let's Build Something Amazing Together!
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tomarun029831)
-
----
-
 *"Perfection is achieved,  
 not when there is nothing more to add,  
 but when there is nothing left to take away."*  
 – Antoine de Saint-Exupéry
-
 </div>
-
