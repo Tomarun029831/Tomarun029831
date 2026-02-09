@@ -130,7 +130,6 @@
 
 ### **Shells**
 ![NuShell](https://img.shields.io/badge/NuShell-4E9A06?style=for-the-badge)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ### **Emulators**
 ![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=for-the-badge)
 ![WezTerm](https://img.shields.io/badge/WezTerm-4A90E2?style=for-the-badge)
@@ -141,10 +140,6 @@
 ### **✏️ Editors**
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Xcode](https://img.shields.io/badge/xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-
 </td>
 <td width="25%">
 
