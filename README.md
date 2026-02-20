@@ -299,7 +299,7 @@ timeline
     2025 : Kosen Intercollegiates Challenge (Jul.)
          : TwoGate DevCamp (Sep.)
          : 36th Matsue Programming Contest (Oct.)
-         : INTERACTION 2026 (Mar.)
+    2026 : INTERACTION 2026 (Mar.)
 ```
 
 📊 GitHub Statistics  
