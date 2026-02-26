@@ -2,26 +2,19 @@
 
 <div align="center">
   
-![Age: 18](https://img.shields.io/badge/Age-18-ff6b35?style=for-the-badge&logo=birthday-cake&logoColor=white)
-![Coding Journey](https://img.shields.io/badge/Coding_Journey-1.5_Years-00d4aa?style=for-the-badge&logo=code&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Japan-e74c3c?style=for-the-badge&logo=map-pin&logoColor=white)
-
-**🚀 Passionate about creating interactive experiences through code**
-
-[![Play RoamBird](https://img.shields.io/badge/🎮_Play_RoamBird-Click_Here-blue?style=for-the-badge&logo=unity)](https://play.unity.com/en/games/dae4eae7-04fb-46ca-8ecd-b6d405c7df6b/roambird)
+![Coding Journey](https://img.shields.io/badge/Coding_Journey-2_Years-00d4aa?style=for-the-badge&logo=code&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-<table>
+<table align="center" width="100%">
   <tr>
     <td valign="top" width="33%">
 
 ### 📦 On Hold
-- [RoamBird](https://play.unity.com/en/games/dae4eae7-04fb-46ca-8ecd-b6d405c7df6b/roambird)
 
 </td>
 <td valign="top" width="33%">
@@ -32,59 +25,74 @@
 </td>
 <td valign="top" width="33%">
 
-### 🛠️ Completed
-- 3I Shikosai Project
-- [Kosen Intercollegiates Challenge](https://www.smbcnikko.co.jp/fs/kosen/202503)
-- [Twogate DevCamp](https://devcamp.twogate.com/2025)
-- [KIKORI GLASS](https://github.com/SpaghettiCode-Union)
+### 🛠️ Periodic Updates
+- [RoamBird](https://play.unity.com/en/games/dae4eae7-04fb-46ca-8ecd-b6d405c7df6b/roambird)
 
 </td>
   </tr>
 </table>
 
 ---
+## Development Environment
 
-## 📜 Certification
-- ### 技術英検二級 Certified
-- ### TOEIC L&R 815 (1/11)
+<table align="center">
+<tr>
+<td width="25%">
+
+### Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</td>
+<td width="25%">
+
+### Shells
+![NuShell](https://img.shields.io/badge/NuShell-4E9A06?style=for-the-badge)
+### Emulators
+![WezTerm](https://img.shields.io/badge/WezTerm-4A90E2?style=for-the-badge)
+
+</td>
+<td width="25%">
+
+### Editors
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+</td>
+<td width="25%">
+
+### Dotfiles
+[![dots](https://img.shields.io/badge/dotfiles-.config-555555?style=for-the-badgehttps://img.shields.io/badge/config-TOML-9C4121?style=for-the-badge&logo=toml&logoColor=white)](https://github.com/Tomarun029831/dots)
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Achievement
-- ### 🥈 1st Runner-up - Thailand-Japan Game Programming Hackathon 2024
-    **International Unity Game Development Competition**  
-    🎮 **[EarthDefense](https://play.unity.com/en/games/f29d60f8-c03a-43ed-9983-1281f630518e/earth-defense)**  
-    *Co-developed with [k4nk1](https://github.com/k4nk1) and team*
-- ### 🥈 優秀賞 (2nd Place) - Kosen Intercolleage Challenge 6th
-- ### 参加賞 (Participant Award) - Twogate DevCamp 2025
-- ### 敢闘賞 - 36th Matsue Programming Contest (Oct)
+<details>
+<summary>Experience by Application Category</summary>
 
----
-
-## 📦 Application Category
-
-**C#/Unity**  
+C#/Unity
 - AR  
 - 2D Action Game  
 - 3D Tower Defense Game  
 
-**TypeScript & GAS**  
+TypeScript & GAS
 - GAS API for Spreadsheet (as database for account data, game progression data)
 
-**Python**  
-- Automate copying notes from undownloadable and uncopyable PDFs
+Python  
+- Automation Tools
 
-**C/C++ on Arduino CLI**  
-- Blackboard Cleaner (with ESP32)
+C/C++ on Arduino CLI  
+- Automation *Tiny* Robot (with ESP32)
 
-**C**  
+C  
 - CLI Game
+- parser
 
----
+</details>
 
-## 📟 Programming Languages
+<details>
+<summary>Built Real Applications With</summary>
 
-### 🚀 Built Real Applications With
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
@@ -95,7 +103,11 @@
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=esphome&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### 🛠 Learning / Prototyping Only
+</details>
+
+<details>
+<summary>Learning / Prototyping Only</summary>
+
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -112,49 +124,12 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Lisp](https://img.shields.io/badge/Lisp-000000?style=for-the-badge&logo=lisp&logoColor=white)
 
----
-
-## 🖥️ Development Environment
-
-<table>
-<tr>
-<td width="25%">
-
-### **💻 Systems**
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_WSL-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-</td>
-<td width="25%">
-
-### **Shells**
-![NuShell](https://img.shields.io/badge/NuShell-4E9A06?style=for-the-badge)
-### **Emulators**
-![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=for-the-badge)
-![WezTerm](https://img.shields.io/badge/WezTerm-4A90E2?style=for-the-badge)
-
-</td>
-<td width="25%">
-
-### **✏️ Editors**
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-</td>
-<td width="25%">
-
-### **⚙️ Dotfiles**
-[![dots](https://img.shields.io/badge/dotfiles-.config-555555?style=for-the-badgehttps://img.shields.io/badge/config-TOML-9C4121?style=for-the-badge&logo=toml&logoColor=white)](https://github.com/Tomarun029831/dots)
-</td>
-</tr>
-</table>
+</details>
 
 ---
-
-## 📚 Knowledge Journey
 
 <details>
-<summary><strong>📖 Books Conquered (読破済み) - Click to expand</strong></summary>
+<summary>Books Conquered</summary>
 
 ### **🎮 Game Development**
 - 『ゲームで学ぶJavaScript入門 増補改訂版～ブラウザゲームづくりでHTML＆CSSも身につく！』
@@ -187,7 +162,7 @@
 </details>
 
 <details>
-<summary><strong>📋 Reading Backlog (積読リスト) - Click to expand</strong></summary>
+<summary>Reading Backlog</summary>
 
 ### **🏗️ Advanced Software Engineering**
 - 『オブジェクト指向における再利用のためのデザインパターン』
@@ -275,13 +250,8 @@
 
 ---
 
-## 🎓 Academic Journey
-
-### 📍 **Current Status**
-**🏫 National Institute of Technology, Ibaraki College**  
-*Computer Science Course • Apr. 2022 - Present*
-
-### 🎯 **Key Milestones**
+<details>
+<summary>Throwback</summary>
 
 ```mermaid
 timeline
@@ -299,20 +269,48 @@ timeline
     2025 : Kosen Intercollegiates Challenge (Jul.)
          : TwoGate DevCamp (Sep.)
          : 36th Matsue Programming Contest (Oct.)
+
     2026 : INTERACTION 2026 (Mar.)
 ```
+</details>
 
-📊 GitHub Statistics  
+<details>
+<summary>GitHub Statistics</summary>
+
 [![committers.top badge](https://user-badge.committers.top/japan/Tomarun029831.svg)](https://user-badge.committers.top/japan/Tomarun029831)
+
 <div align="center">
   <img alt="Tomarun029831 Activity Graph" src="github-metrics.svg" />
 </div>
 
+</details>
+
+---
+
+<details>
+<summary>Certifications</summary>
+
+- 技術英検二級 Certified
+- TOEIC L&R 815 (2026/1/11)
+
+</details>
+
+<details>
+<summary>Achievements</summary>
+
+- 1st Runner-up - Thailand-Japan Game Programming Hackathon 2024  
+  [EarthDefense](https://play.unity.com/en/games/f29d60f8-c03a-43ed-9983-1281f630518e/earth-defense) - Co-developed with [k4nk1](https://github.com/k4nk1) and team
+- 優秀賞 - Kosen Intercolleage Challenge 6th  
+- 参加賞 - Twogate DevCamp 2025  
+- 敢闘賞 - 36th Matsue Programming Contest (Oct)  
+
+</details>
+
 ---
 
 <div align="center">
-*"Perfection is achieved,  
-not when there is nothing more to add,  
-but when there is nothing left to take away."*  
-– Antoine de Saint-Exupéry
+"Perfection is achieved,<br>
+not when there is nothing more to add,<br>
+but when there is nothing left to take away."<br>
+– Antoine de Saint-Exupéry<br>
 </div>
