@@ -20,7 +20,6 @@
 <td valign="top" width="33%">
 
 ### 🚧 In Progress
-- [BlackBoardCleaner](https://github.com/Tomarun029831/BlackBoardCleaner)
 
 </td>
 <td valign="top" width="33%">
