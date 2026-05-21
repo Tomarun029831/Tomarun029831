@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Coding Journey](https://img.shields.io/badge/Coding_Journey-2_Years-00d4aa?style=for-the-badge&logo=code&logoColor=white)
+![Coding Journey](https://img.shields.io/badge/Coding_Journey-3_Years-00d4aa?style=for-the-badge&logo=code&logoColor=white)
 
 </div>
 
