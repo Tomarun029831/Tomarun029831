@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Coding Journey](https://img.shields.io/badge/Coding_Journey-3_Years-00d4aa?style=for-the-badge&logo=code&logoColor=white)
+![Coding Journey](https://img.shields.io/badge/Coding_Journey-3.5_Years-00d4aa?style=for-the-badge&logo=code&logoColor=white)
 
 </div>
 
@@ -20,7 +20,6 @@
 <td valign="top" width="33%">
 
 ### 🚧 In Progress
-- [token-checker](https://github.com/Tomarun029831/token-checker)
 
 </td>
 <td valign="top" width="33%">
@@ -88,6 +87,9 @@ C
 - CLI Game
 - parser
 
+C++  
+- Real-Time Physical Token Tracking-Based Occupancy Monitoring System
+
 </details>
 
 <details>
@@ -102,6 +104,7 @@ C
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=esphome&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </details>
 
@@ -117,7 +120,6 @@ C
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
